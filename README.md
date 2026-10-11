@@ -2,4 +2,8 @@
  en este repositorio se va a contener el mod llamado TItanomachy un mod que se trata de un boss figth que tenga historia si lo agrego
 
 ## 1)-los jefes y sus  items
-1-gabriel
+1-gabriel(un arcangel)
+-su estilo de combate trata de que tira lanzas en los cuales pueden tirar rayos 
+
+
+
