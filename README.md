@@ -9,7 +9,11 @@
 -el dorado es una estatua viva,su dedilidad es su corazon expuesto(se puede matar con un arco y punteria),su daño es de 259 y el item es sn corazon "Corazon natural" es una fruta curativa la cual regenera 245 de salud
 
 
-## 2)-blockes con sus items y resetas.
+## 2)- armas con sus items y resetas.
+
+ 1. lanza divina;se necesita 1 lingote de hierro 3,gotas de sangre divina y una lanza de oro.el lingote va abajo del mango de la lanza ,la lanza en el centro de la mesa y las trwes gotas de sangre divina...
+
+ 2. 
 
 
 
