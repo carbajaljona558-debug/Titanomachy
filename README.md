@@ -3,7 +3,7 @@
 
 ## 1)-los jefes y sus items y las resetas de sus items.
 1. gabriel(un arcangel).
--su estilo de combate trata de que tira lanzas en los cuales pueden tirar rayos,su daño es 333 y el item es su sangre de manera solida paresida a el oro "sangre divina" con ella se craftea su lanza "lanza celestial" que se hace con 1 hierro 2 de la sangre divina y una lanza de oro.
+-su estilo de combate trata de que tira lanzas en los cuales pueden tirar rayos,su daño es 333 y el item es su sangre de manera solida paresida a el oro "sangre divina" con ella se craftea su espada "espada divina" que se hace con 1 hierro 2 de la sangre divina y una lanza de oro.
 
 2. el dorado(golem).
 -el dorado es una estatua viva,su dedilidad es su corazon expuesto(se puede matar con un arco y punteria),su daño es de 259 y el item es sn corazon "Corazon natural" es una fruta curativa la cual regenera 245 de salud
@@ -11,9 +11,8 @@
 
 ## 2)- armas con sus items y resetas.
 
- 1. lanza divina;se necesita 1 lingote de hierro 3,gotas de sangre divina y una lanza de oro.el lingote va abajo del mango de la lanza ,la lanza en el centro de la mesa y las trwes gotas de sangre divina...
-
- 2. 
+ 1. espada;se necesita 1 lingote de hierro ,una gota de sangre divina y una espada de oro.el lingote va abajo del mango de la espada ,la espasa en el centro de la mesa y la gota de sangre divina arriba de la espada
+ 2.  
 
 
 
